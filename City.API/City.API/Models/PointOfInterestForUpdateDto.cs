@@ -2,7 +2,7 @@
 
 namespace City.API.Models
 {
-    public class PointOfInterestForCreationDto
+    public class PointOfInterestForUpdateDto
     {
         [Required]
         [MaxLength(50)]
